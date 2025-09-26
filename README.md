@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>🎤 تبدیل متن به گفتار</title>
   <style>
-    body {
+    ody {
       font-family: sans-serif;
       background: linear-gradient(135deg, #f6d365, #fda085);
       display: flex;
